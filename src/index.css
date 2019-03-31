@@ -1,5 +1,8 @@
 @import 'styles/TopBar.css';
 @import 'styles/ShotChart.css';
+@import 'styles/Main.css';
+@import 'styles/Profile.css';
+@import 'styles/App.css';
 body {
   margin: 0;
   padding: 0;
